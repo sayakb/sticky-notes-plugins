@@ -31,6 +31,6 @@ return array(
 	"your_profile"      => "ملفك الشخصي",
 	"my_pastes"         => "عرض ما لصقته",
 	"new_password"      => "كلمة السر الجديدة",
-	"profile_saved"     => "Your profile has been saved",
+	"profile_saved"     => "تم حفظ ملفك بنجاح",
 
 );
